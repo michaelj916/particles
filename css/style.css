@@ -76,3 +76,7 @@ canvas{
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+
+#particles-js:focus {
+   background-color: #d3cece;
+}
