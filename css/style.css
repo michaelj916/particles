@@ -65,6 +65,12 @@ canvas{
   color: #ffffff;
 }
 
+@media only screen and (max-width: 860px) {
+  .instructions {
+    font-size: 1.5em;
+  }
+}
+
 /* ---- particles.js container ---- */
 
 #particles-js{
